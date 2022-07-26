@@ -65,6 +65,17 @@ AC's
 - Inclusion of accessibility for the visually impaired.
 - Inclusion of Prettier for code formatting.
 
+### Unit tests to cover in the future
+
+- Check that the component representing the question (GameQuestion) is coloring the elements in the correct way for success and failure cases.
+- Verify if the component relative to the question value (GameBoxMoney), is rendering the correct active and deactivated states when passed different values in its properties.
+- Verify that the main container (TakeHome) is performing the correct flows:
+    - Verify that when answering all questions, the component renders the game over screen;
+    - Verify that the question already answered is correctly blocked;
+
+
+Translated with www.DeepL.com/Translator (free version)
+
 ## Project setup
 ```
 yarn install
