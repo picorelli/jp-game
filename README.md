@@ -76,3 +76,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Screenshots
+
+![alt-text-1](screenshots/screen-1.png "screen-1")
+
+![alt-text-2](screenshots/screen-2.png "screen-2")
+
+![alt-text-3](screenshots/screen-3.png "screen-3")
