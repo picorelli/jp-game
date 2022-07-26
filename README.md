@@ -73,9 +73,6 @@ AC's
     - Verify that when answering all questions, the component renders the game over screen;
     - Verify that the question already answered is correctly blocked;
 
-
-Translated with www.DeepL.com/Translator (free version)
-
 ## Project setup
 ```
 yarn install
