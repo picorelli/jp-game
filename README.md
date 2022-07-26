@@ -1,4 +1,3 @@
-# nt-web-takehome
 # This... is... JEOPARDY!
 Thank you for taking the time to do this code exercise, hopefully you have some fun along the way!
 
