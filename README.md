@@ -50,9 +50,20 @@ AC's
 5. Track User's score. A correct answer increases the User's winnings by the `value` amount; an incorrect decrements by that amount.
 6. Have fun!
 
-## Handy links
-[Vue for React Devs](https://blog.logrocket.com/5-vue-tips-for-react-developers/)
-[Vue Docs](https://vuejs.org/v2/guide/)
+### Screenshots
+
+![alt-text-1](screenshots/screen-1.png "screen-1")
+
+![alt-text-2](screenshots/screen-2.png "screen-2")
+
+![alt-text-3](screenshots/screen-3.png "screen-3")
+
+### Future Impromevents
+
+- Upgrade project to Vue3.
+- Inclusion of packages for unit tests and end-to-end tests (Vue Test and Cypress).
+- Mobile application oriented styling (Mobile First).
+- Inclusion of accessibility for the visually impaired.
 
 ## Project setup
 ```
@@ -76,11 +87,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Screenshots
-
-![alt-text-1](screenshots/screen-1.png "screen-1")
-
-![alt-text-2](screenshots/screen-2.png "screen-2")
-
-![alt-text-3](screenshots/screen-3.png "screen-3")
