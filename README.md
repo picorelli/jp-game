@@ -63,6 +63,7 @@ AC's
 - Inclusion of packages for unit tests and end-to-end tests (Vue Test and Cypress).
 - Mobile application oriented styling (Mobile First).
 - Inclusion of accessibility for the visually impaired.
+- Inclusion of Prettier for code formatting.
 
 ## Project setup
 ```
