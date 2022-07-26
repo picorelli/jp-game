@@ -24,9 +24,6 @@ export default {
   },
 
   methods: {
-    allQuestionsCompleted() {
-
-    },
     checkAnswer(question, ans) {
       const found = data.find((q) => q.question === question);
       if (!found) {
